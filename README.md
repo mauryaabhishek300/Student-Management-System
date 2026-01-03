@@ -3,11 +3,12 @@ A web-based Student Management System to manage student records, attendance, mar
 
 📚 Smart Education System
 Academic Disruption – Centralized Academic Management Platform
+
+
 🧩 Problem Statement
 
 Tracking attendance, test scores, timetables, and academic updates is difficult due to fragmented information systems. Data is scattered across WhatsApp groups, notice boards, and verbal communication, leading to missed deadlines, low attendance issues, and poor communication between students and teachers 
 
-Academic Disruption (1)
 
 🚀 Our Solution
 
@@ -25,7 +26,6 @@ Automated low-attendance alerts
 
 Simple and user-friendly interface 
 
-Academic Disruption (1)
 
 🎯 Core Features
 👩‍🏫 Teacher Dashboard
@@ -66,7 +66,6 @@ Google Looker Studio – Data visualization & dashboards
 
 Google Drive – Secure file storage and access 
 
-Academic Disruption (1)
 
 🔄 System Workflow
 
@@ -98,7 +97,6 @@ Announcements section
 
 🤖 AI-driven insights & predictive analytics 
 
-Academic Disruption (1)
 
 👥 Team Details
 
@@ -110,4 +108,4 @@ Team Leader: Prince Sah
 
 The Smart Education System is a practical, implementable solution aimed at improving transparency, communication, and academic discipline in educational institutions. It reduces stress, prevents academic disruption, and builds a more connected learning environment 
 
-Academic Disruption (1)
+
