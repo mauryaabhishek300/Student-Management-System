@@ -1,5 +1,5 @@
 # Student-Management-System
-A web-based Student Management System to manage student records, attendance, marks, timetable, and teacher announcements efficiently.
+A web-based Student Management System to manage student records, attendance, timetable, alerts, and teacher announcements efficiently.
 
 📚 Smart Education System
 Academic Disruption – Centralized Academic Management Platform
@@ -7,7 +7,7 @@ Academic Disruption – Centralized Academic Management Platform
 
 🧩 Problem Statement
 
-Tracking attendance, test scores, timetables, and academic updates is difficult due to fragmented information systems. Data is scattered across WhatsApp groups, notice boards, and verbal communication, leading to missed deadlines, low attendance issues, and poor communication between students and teachers 
+Tracking attendance, timetables, and academic updates is difficult due to fragmented information systems. Data is scattered across WhatsApp groups, notice boards, and verbal communication, leading to missed deadlines, low attendance issues, and poor communication between students and teachers 
 
 
 🚀 Our Solution
@@ -32,8 +32,6 @@ Simple and user-friendly interface
 
 Update attendance
 
-Upload test marks
-
 Share timetables
 
 Post announcements from one place
@@ -41,8 +39,6 @@ Post announcements from one place
 👨‍🎓 Student Portal
 
 View attendance percentage
-
-Access test scores
 
 Check timetables
 
@@ -83,7 +79,7 @@ Attendance tracking
 
 Performance overview
 
-Timetable display
+Low attendance (shows how many more lecture needed to reach 75% requirement) section
 
 Announcements section
 
